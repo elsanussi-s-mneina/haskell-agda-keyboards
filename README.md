@@ -96,3 +96,5 @@ The reason is simple. Once you make a keyboard layout based on U.S. standard the
 
 If I had a tool that simply took my customization, and the placement of a dead key, then I could probably make 100 different keyboard layouts customized in the same way.
 
+## Problems / Oversight
+- There are far more unicode symbols used in Agda than I have on the current version of the keyboard layout. This means we need a redesign, and would have to support all the Math symbols in Unicode.
