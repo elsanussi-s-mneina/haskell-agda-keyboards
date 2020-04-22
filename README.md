@@ -6,8 +6,13 @@ To use it, first install it on your system.
 
 If you want to edit it, or create an installation bundle, you can use [Ukelele](https://scripts.sil.org/ukelele) which is freely available software from SIL International for creating and editing keyboard layouts
 
-## How to install a new keyboard layout
 
+## Supported Operating Systems
+- Windows
+- MacOS (Mojave 10.14, and some earlier versions)
+
+
+## How to install a new keyboard layout on Mac OS X
 1. Copy the `.keylayout` file to the `Keyboard Layouts` folder within `/Library` or `~/Library`.
    - You can navigate to the library folder for the current user from the finder by holding down
    the option key while selecting the Go menu.
@@ -19,6 +24,11 @@ If you want to edit it, or create an installation bundle, you can use [Ukelele](
    - It will be named `Haskell Agda`.
 
 OS X has supported `.keylayout` files since version 10.2 (Jaguar).
+
+## How to install a new keyboard layout on Windows
+1. Download the file named Haskell_Agda_Keyboard_Layout_for_Windows_Latest.klc
+
+- ToDo: add more instructions.
 
 ## Design decisions for initial keyboard
 
