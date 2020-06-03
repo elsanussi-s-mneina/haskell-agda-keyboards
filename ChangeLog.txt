@@ -5,3 +5,12 @@ Version 2.001 (April 20, 2020):
 - Removed extra space that was put before the less than greater than character.
 (Developer notes: beginning to edit the file in a text editor)
 - Created a changelog and put it in the repository.
+
+
+Version 2.002 (June 3, 2020):
+- Placed 𝕍 (U+1D54D : MATHEMATICAL DOUBLE-STRUCK CAPITAL V) on keyboard
+  (requires pressing shift)
+- Placed 𝕃 (U+1D543 : MATHEMATICAL DOUBLE-STRUCK CAPITAL L) on keyboard
+  (requires pressing shift)
+
+These two characters are used by a textbook on Agda.
