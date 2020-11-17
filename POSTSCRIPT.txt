@@ -1,0 +1,5 @@
+I abandoned this keyboard layout because the current ways of entering mathematical symbols into a computer are far easier than learning a new keyboard layout. Also, there are so many mathematical symbols that designing, and making a keyboard layout for all of them is actually a very lengthy task. Remembering to type "\forall" is far easier than remembering where it would be on a custom keyboard.
+
+You should just use Emacs, or an editor with a special plugin, as is usual in Agda.
+
+This repository might be deleted or hidden after December 31, 2020.
