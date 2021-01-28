@@ -1,4 +1,6 @@
 # Haskell Agda Keyboards (Source code repository)
+## Note: This Repository is now Archived (as of January 28, 2020)
+
 
 Here we have a keyboard layout file for setting up a keyboard on a MacOS X for writing all the difficult to type symbols that are used in Agda, and sometimes in Haskell.
 
